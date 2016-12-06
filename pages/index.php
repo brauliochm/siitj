@@ -55,7 +55,7 @@
                       <!--En lo adelante el contenido será volatil de acuerdo a las necesidades del usuario-->
 
                     <div class="col-lg-12">
-                      <div class="panel panel-primary">
+                      <div class="panel panel-default">
                           <div class="panel-heading">
                               DataTables Tablas Avanzadas
                           </div>
