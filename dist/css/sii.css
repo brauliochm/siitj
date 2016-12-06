@@ -11,8 +11,8 @@ body {
 
 .header-page img{
   width: 100%;
-  height: auto;;
-  max-height: 100px;
+  height: auto;
+  max-height: 120px;
   padding: 0 15px 0 15px;
   background-color: #ffffff;
 
@@ -55,8 +55,7 @@ padding: 15px 0 15px 0;
 margin: auto;
 margin-bottom: 0;
 color:#ffffff;
-
-background-color: #0288D1;
+background-color: #000099;
 ;
 font-size: 24px;
 }
@@ -72,6 +71,9 @@ font-size: 24px;
   padding: 0 15px;
   min-height: 568px;
   background-color: white;
+}
+.panel-itj{
+  background-color: #000099;
 }
 @media (min-width: 768px) {
   #page-wrapper {
